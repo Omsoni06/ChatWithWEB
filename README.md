@@ -17,4 +17,3 @@
 - **UI Enhancements:** Framer Motion for animations, Shadcn UI, Lucide Icons  
 - **Language:** JavaScript (React)  
 
-L
